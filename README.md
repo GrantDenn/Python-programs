@@ -1,3 +1,3 @@
 # Python Abusers Group
 
-Just some people leaning and teaching python in Denver ColoRADo.
+Just some people learning and teaching python in Denver ColoRADo.
