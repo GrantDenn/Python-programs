@@ -1,3 +1,3 @@
-# Python (Ab)Users Group
+# Python Users Group
 
-Just some people learning and teaching python in Denver ColoRADo.
+Just some people learning and teaching python in Denver CO at MSU Denver and CU Denver. 
